@@ -34,4 +34,5 @@ enable_page_count_day_wise:
 </tr>
 </tbody>
 </table>
+
 <p align="center"><img class="aligncenter size-full wp-image-99" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Rainbow-HR.jpg" alt="Horizontal Rule" width="800" height="12" /></p>
