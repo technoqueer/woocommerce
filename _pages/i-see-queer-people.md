@@ -21,6 +21,6 @@ enable_page_count_day_wise:
 
 <img class="aligncenter size-full wp-image-99" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Rainbow-HR.jpg" alt="Horizontal Rule" width="800" height="11" />
 
-[product_category per_page=‘100’ columns=‘3’ orderby=‘rand’ category=‘i-see-queer-people']
+[product_category per_page="100" columns="3" orderby="rand" category="i-see-queer-people"]
 
 <img class="aligncenter size-full wp-image-99" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Rainbow-HR.jpg" alt="Horizontal Rule" width="800" height="11" />
