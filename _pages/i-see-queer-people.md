@@ -6,7 +6,7 @@ post_date: 2017-05-29 08:15:28
 post_excerpt: ""
 layout: page
 permalink: >
-  https://technoqueer.com/shop/tq-shop/other/32843-2/
+  https://technoqueer.com/shop/tq-shop/other/i-see-queer-people/
 published: true
 gfonts_meta_no_font:
   - "1"
