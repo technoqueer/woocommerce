@@ -17,7 +17,8 @@ enable_page_count_day_wise:
 ---
 <img class="alignleft size-full wp-image-111" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Other1M.png" alt="" width="110" height="312" />
 <p style="text-align: left;">This category is like the Island of Misfit Toys. They belong, just nobody knows where. But isn't that how things go in real life? The outcasts, the misfits, the weird, the lonely, the pathetic all coming together and realizing they aren't alone after all. It's like 'The Breakfast Club'. But without Molly Ringwald. So, actually, it’s better than ‘The Breakfast Club'</p>
-&nbsp;
+<br clear="all">
+
 <p align="center"><img class="aligncenter size-full wp-image-99" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Rainbow-HR.jpg" alt="Horizontal Rule" width="800" height="12" /></p>
 
 <table width="800" align="center">
