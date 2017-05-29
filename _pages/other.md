@@ -31,7 +31,7 @@ enable_page_count_day_wise:
 <tr>
 <th width="33%"><a href="https://technoqueer.com/shop/tq-shop/other/queerworms/"><img class="aligncenter size-full wp-image-29398" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/btn-queerworms.png" alt="" width="200" height="200" /></a></th>
 <th width="34%"><a href="https://technoqueer.com/shop/tq-shop/other/john-waters/"><img class="aligncenter size-full wp-image-19115" src="https://technoqueer.com/shop/wp-content/uploads/2017/04/btn-John-Waters-Category.png" alt="" width="200" height="200" /></a></th>
-<th width="33"><a><img class="aligncenter size-full wp-image-32728" src="https://technoqueer.com/shop/wp-content/uploads/2017/05/btn-see-queer.png" alt="" width="200" height="200" /></a></th>
+<th width="33"><a href="https://technoqueer.com/shop/tq-shop/other/i-see-queer-people/"><img class="aligncenter size-full wp-image-32728" src="https://technoqueer.com/shop/wp-content/uploads/2017/05/btn-see-queer.png" alt="" width="200" height="200" /></a></th>
 </tr>
 </tbody>
 </table>
