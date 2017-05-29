@@ -16,7 +16,7 @@ enable_page_count_day_wise:
   - 'yes'
 ---
 <img class="alignleft size-full wp-image-111" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Other1M.png" alt="" width="110" height="312" />
-<p style="text-align: left;">This category is like the Island of Misfit Toys. They belong, just nobody knows where. But isn't that how things go in real life? The outcasts, the misfits, the weird, the lonely, the pathetic all coming together and realizing they aren't alone after all. It's like 'The Breakfast Club'. But without Molly Ringwald. So, actually, it’s better than 'The Breakfast Club'</p>
+<p style="text-align: left;">This category is like the Island of Misfit Toys. They belong, just nobody knows where. But isn't that how things go in real life? The outcasts, the misfits, the weird, the lonely, the pathetic all coming together and realizing they aren't alone after all. It's like 'The Breakfast Club'. But without Molly Ringwald. So, actually, it’s better than ‘The Breakfast Club'</p>
 &nbsp;
 <p align="center"><img class="aligncenter size-full wp-image-99" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Rainbow-HR.jpg" alt="Horizontal Rule" width="800" height="12" /></p>
 
@@ -30,7 +30,7 @@ enable_page_count_day_wise:
 <tr>
 <th width="33%"><a href="https://technoqueer.com/shop/tq-shop/other/queerworms/"><img class="aligncenter size-full wp-image-29398" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/btn-queerworms.png" alt="" width="200" height="200" /></a></th>
 <th width="34%"><a href="https://technoqueer.com/shop/tq-shop/other/john-waters/"><img class="aligncenter size-full wp-image-19115" src="https://technoqueer.com/shop/wp-content/uploads/2017/04/btn-John-Waters-Category.png" alt="" width="200" height="200" /></a></th>
-<th width="“33%&quot;"><a><img class="aligncenter size-full wp-image-32728" src="https://technoqueer.com/shop/wp-content/uploads/2017/05/btn-see-queer.png" alt="" width="200" height="200" /></a></th>
+<th width="33"><a><img class="aligncenter size-full wp-image-32728" src="https://technoqueer.com/shop/wp-content/uploads/2017/05/btn-see-queer.png" alt="" width="200" height="200" /></a></th>
 </tr>
 </tbody>
 </table>
