@@ -33,7 +33,7 @@ Being proud of who you are - despite adversity or challenge - is important in th
 </table>
 <p align="center"><img class="aligncenter size-full wp-image-99" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Rainbow-HR.jpg" alt="Horizontal Rule" width="800" height="12" /></p>
 
-<h5 align="center">Sample of category products</h5>
+<h3 align="center">Sample of category products</h3><br>
 [product_category per_page='12' columns='3' orderby='rand' category='pride']
 
 <p align="center"><img class="aligncenter size-full wp-image-99" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Rainbow-HR.jpg" alt="Horizontal Rule" width="800" height="12" /></p>
