@@ -6,7 +6,7 @@ post_date: 2017-06-04 16:25:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://technoqueer.com/shop/rainbow-tie-dye/
+  https://technoqueer.com/shop/tq-shop/pride/rainbow-pride/rainbow-tie-dye/
 published: true
 gfonts_meta_no_font:
   - "1"
