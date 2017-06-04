@@ -8,6 +8,12 @@ layout: page
 permalink: >
   https://technoqueer.com/shop/tq-shop/pride/
 published: true
+gfonts_meta_no_font:
+  - "1"
+enable_page_count:
+  - 'yes'
+enable_page_count_day_wise:
+  - 'yes'
 ---
 <img src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Pride1L-149x400.png" alt="" width="149" height="400" class="alignleft size-medium wp-image-83" />
 Being proud of who you are - despite adversity or challenge - is important in the queer community. Showing others your pride in yourself is a validation of self. Showing pride in the community is a validation of the individual rights of others.
@@ -25,4 +31,8 @@ Being proud of who you are - despite adversity or challenge - is important in th
 </tr>
 </tbody>
 </table>
+<p align="center"><img class="aligncenter size-full wp-image-99" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Rainbow-HR.jpg" alt="Horizontal Rule" width="800" height="12" /></p>
+
+[product_category per_page='100' columns='3' orderby='rand' category='pride']
+
 <p align="center"><img class="aligncenter size-full wp-image-99" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Rainbow-HR.jpg" alt="Horizontal Rule" width="800" height="12" /></p>
