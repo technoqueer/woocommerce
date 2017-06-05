@@ -8,6 +8,12 @@ layout: page
 permalink: >
   https://technoqueer.com/shop/tq-shop/pride/natural-pride/
 published: true
+gfonts_meta_no_font:
+  - "1"
+enable_page_count:
+  - 'yes'
+enable_page_count_day_wise:
+  - 'yes'
 ---
 IMG
 <p style="text-align: left;">As the Lady Gaga sings, we are born this way. Being gay, lesbian, bisexual, transgender, intersex - queer - is as natural as a flower or a tree. So, our pride should reflect that. The designs in this section come from nature, whether a flower, or an animal, or something else. Each enhanced with the colors of the gay pride flag, to celebrate pride in our natural selves and our community.</p>
@@ -45,4 +51,9 @@ IMG
 
 </tbody>
 </table>
+<p align="center"><img class="aligncenter size-full wp-image-99" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Rainbow-HR.jpg" alt="Horizontal Rule" width="800" height="12" /></p>
+
+<h3 align="center">Sample of category products</h3><br>
+[product_category per_page='12' columns='3' orderby='rand' category='pride']
+
 <p align="center"><img class="aligncenter size-full wp-image-99" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Rainbow-HR.jpg" alt="Horizontal Rule" width="800" height="12" /></p>
