@@ -16,7 +16,7 @@ enable_page_count_day_wise:
   - 'yes'
 ---
 <img src="https://technoqueer.com/shop/wp-content/uploads/2017/03/btn-natural-pride.png" alt="" width="200" height="200" class="alignleft size-full wp-image-14802" />
-<p style="text-align: left;">As the Lady Gaga sings, we are born this way. Being gay, lesbian, bisexual, transgender, intersex - queer - is as natural as a flower or a tree. So, our pride should reflect that. The designs in this section come from nature, whether a flower, or an animal, or something else. Each enhanced with the colors of the gay pride flag, to celebrate pride in our natural selves and our community.</p>
+<p style="text-align: left;">As Lady Gaga sings, we are born this way. Being gay, lesbian, bisexual, transgender, intersex - queer - is as natural as a flower or a tree. So, our pride should reflect that. The designs in this section come from nature, whether a flower, or an animal, or something else. Each enhanced with the colors of the gay pride flag, to celebrate pride in our natural selves and our community.</p>
 <br clear="all">
 
 <img class="aligncenter size-full wp-image-99" src="https://technoqueer.com/shop/wp-content/uploads/2017/03/Rainbow-HR.jpg" alt="Horizontal Rule" width="800" height="11" />
